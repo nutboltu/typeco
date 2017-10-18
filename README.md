@@ -1,5 +1,5 @@
 # TypeCo
-
+[![dependencies Status](https://david-dm.org/nutboltu/typeco/status.svg)](https://david-dm.org/nutboltu/typeco)
 A javascript micro library which allows you to check javascript data types.
 <!-- TOC -->
 
