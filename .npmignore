@@ -1,0 +1,10 @@
+.vscode
+src/
+test/
+README.md
+LICENSE
+.babelrc
+.gitignore
+.eslintignore
+.eslintrc
+yarn.lock
