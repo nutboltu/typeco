@@ -8,3 +8,4 @@ LICENSE
 .eslintignore
 .eslintrc
 yarn.lock
+.travis.yml
