@@ -1,6 +1,6 @@
 {
   "name": "typeco",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A javascript library which allows to check javascript value types at runtime",
   "main": "dist/index.js",
   "scripts": {
@@ -8,6 +8,10 @@
     "prebuild": "npm run lint",
     "build": "babel src/  --presets babel-preset-es2015 -d dist/",
     "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutboltu/typeco.git"
   },
   "keywords": [
     "type-checker",
