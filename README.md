@@ -2,7 +2,7 @@
 
 [![dependencies Status](https://david-dm.org/nutboltu/typeco/status.svg)](https://david-dm.org/nutboltu/typeco) [![Build Status](https://travis-ci.org/nutboltu/typeco.svg?branch=master)](https://travis-ci.org/nutboltu/typeco)
 
-A javascript micro library(0.45Kb) which allows you to check javascript data types.
+A javascript micro library which allows you to check javascript data types.
 <!-- TOC -->
 
 - [TypeCo](#typeco)
