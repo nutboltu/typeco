@@ -155,4 +155,4 @@ This functions works exactly same as `isEmpty()` but also returns true if the da
 
 ## License
 
-MIT Licensed. Copyright (c) Farhad Yasir 2017.
+MIT Licensed. Copyright (c) Farhad Yasir 2018.

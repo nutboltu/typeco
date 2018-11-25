@@ -1,6 +1,6 @@
 {
   "name": "typeco",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A javascript library which allows to check javascript value types at runtime",
   "main": "dist/index.js",
   "scripts": {
@@ -18,7 +18,12 @@
     "type",
     "type-check",
     "types-checker",
-    "javascript type check"
+    "javascript type check",
+    "is check library",
+    "isArray",
+    "isObject",
+    "isNumber",
+    "isString"
   ],
   "devDependencies": {
     "babel-cli": "6.26.0",
