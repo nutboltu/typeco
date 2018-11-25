@@ -1,4 +1,5 @@
 # TypeCo
+
 [![dependencies Status](https://david-dm.org/nutboltu/typeco/status.svg)](https://david-dm.org/nutboltu/typeco) [![Build Status](https://travis-ci.org/nutboltu/typeco.svg?branch=master)](https://travis-ci.org/nutboltu/typeco)
 
 A javascript micro library which allows you to check javascript data types.
@@ -155,4 +156,4 @@ This functions works exactly same as `isEmpty()` but also returns true if the da
 
 ## License
 
-MIT Licensed. Copyright (c) Farhad Yasir 2017.
+MIT Licensed. Copyright (c) Farhad Yasir 2018.

@@ -6,6 +6,7 @@ LICENSE
 .babelrc
 .gitignore
 .eslintignore
+package-lock.json
 .eslintrc
 yarn.lock
 .travis.yml

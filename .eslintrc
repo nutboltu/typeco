@@ -6,13 +6,13 @@
   "extends": "airbnb",
   "rules": {
     "id-length": [
-        2,
-        {
-          "min": 3,
-          "max": 35,
-          "properties": "never",
-          "exceptions": [ "_", "cb", "$" ]
-        }
+      2,
+      {
+        "min": 3,
+        "max": 35,
+        "properties": "never",
+        "exceptions": [ "_", "cb", "$" ]
+      }
     ],
     "max-len": [ 2, 120, 2 ],
     "max-params": [ 2, 3 ],
