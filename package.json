@@ -16,14 +16,20 @@
   "keywords": [
     "type-checker",
     "type",
-    "type-check",
-    "types-checker",
-    "javascript type check",
-    "is check library",
+    "type check",
+    "types checker",
+    "javascript type",
     "isArray",
     "isObject",
     "isNumber",
-    "isString"
+    "isString",
+    "isDate",
+    "isRegExp",
+    "isFunction",
+    "isBoolean",
+    "isNull",
+    "isEmpty",
+    "isEmptyOrZero"
   ],
   "devDependencies": {
     "babel-cli": "6.26.0",
