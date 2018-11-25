@@ -7,7 +7,8 @@
     "lint": "$(npm bin)/eslint .",
     "prebuild": "npm run lint",
     "build": "babel src/  --presets babel-preset-es2015 --presets babel-preset-minify -d dist/",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -43,7 +44,8 @@
     "eslint-config-airbnb": "16.1.0",
     "eslint-plugin-import": "2.7.0",
     "eslint-plugin-jsx-a11y": "6.0.2",
-    "eslint-plugin-react": "7.4.0"
+    "eslint-plugin-react": "7.4.0",
+    "jest": "^23.6.0"
   },
   "author": "Farhad Yasir",
   "license": "MIT"
