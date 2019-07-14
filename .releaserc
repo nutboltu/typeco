@@ -1,0 +1,10 @@
+{
+  "branch": "master",
+  "plugins": [
+    ["@semantic-release/github",
+        {
+          "repositoryUrl": "https://github.com/nutboltu/typeco.git"
+        }
+      ]
+  ]
+}
