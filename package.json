@@ -9,6 +9,7 @@
     "build": "minify src/ -d dist/",
     "prepublish": "npm run build && npm run test",
     "test": "$(npm bin)/jest",
+    "ci": "npm run test && npm run build",
     "semantic-release": "semantic-release"
   },
   "repository": {
