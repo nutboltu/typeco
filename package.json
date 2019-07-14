@@ -8,7 +8,8 @@
     "prebuild": "npm run lint",
     "build": "minify src/ -d dist/",
     "prepublish": "npm run build && npm run test",
-    "test": "$(npm bin)/jest"
+    "test": "$(npm bin)/jest",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -33,17 +34,20 @@
     "isEmptyOrZero"
   ],
   "devDependencies": {
-    "@babel/cli": "7.4.4",
-    "@babel/preset-env": "^7.4.5",
-    "babel-minify": "0.5.0",
-    "babel-preset-minify": "0.5.0",
-    "eslint": "5.16.0",
-    "eslint-config-airbnb": "17.1.0",
-    "eslint-plugin-import": "2.17.3",
-    "eslint-plugin-jsx-a11y": "6.2.1",
-    "eslint-plugin-react": "7.13.0",
-    "jest": "24.8.0"
+    "@babel/cli": "^7.5.0",
+    "@babel/preset-env": "^7.5.4",
+    "babel-minify": "^0.5.0",
+    "babel-preset-minify": "^0.5.0",
+    "eslint": "^6.0.1",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.2",
+    "jest": "^24.8.0"
   },
   "author": "Farhad Yasir",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "semantic-release": "^15.13.18"
+  }
 }
