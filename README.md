@@ -1,6 +1,9 @@
 # TypeCo
 
 [![dependencies Status](https://david-dm.org/nutboltu/typeco/status.svg)](https://david-dm.org/nutboltu/typeco) [![Build Status](https://travis-ci.org/nutboltu/typeco.svg?branch=master)](https://travis-ci.org/nutboltu/typeco)
+<a href="https://twitter.com/intent/follow?screen_name=nutboltu">
+   <img src="https://img.shields.io/twitter/follow/nutboltu.svg?label=Follow%20@nutboltu" alt="Follow @nutboltu" />
+</a>
 
 A javascript micro library which allows you to check javascript data types.
 <!-- TOC -->
